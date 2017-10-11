@@ -81,9 +81,13 @@ padding: 28px 0px 0px 0px;
 	text-decoration: none;
 	display: inline-block;
 	font-size: 18px;
-	font-family: Georgia, Tahoma, sans-serif;;
+
 	padding: 22px 70px;
 	color: #eaa258;
+}
+.ba-button:hover{
+	color:#fff;
+	background-color: #eaa258;
 }
 .ba-z:before {
 	content: "\201C " ;
