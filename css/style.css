@@ -11,6 +11,7 @@ body{
 	margin: 0;
 	background-color:  #ffffff;
 	color:  #171717;
+	font: 300 18px/1.88 Lato, Arial, sans-serif;
 }
 .ba-container{
 	margin: 0 auto;
@@ -29,8 +30,7 @@ body{
 	box-shadow: 0px 4px 68px 0px rgba(0, 0, 0, 0.1);
 	padding: 140px 138px 227px 121px;
 	color: #6F6F6F;
-	font: 300 18px/1.88 Lato, Arial, sans-serif;
-}
+	}
 .ba-title{
 	font-family: PlayfairDisplay;
 	color:  #171717;
